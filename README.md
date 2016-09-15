@@ -8,3 +8,8 @@ Install tesseract
 
 ## Observation 
 
+
+## Useful article or ressource 
+
+* [Machinalis](http://www.machinalis.com/blog/ocr-with-django/) 
+  * OCR with tesseract and django    
